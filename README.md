@@ -21,7 +21,8 @@ Example use case: a house construction business could use it to decide where to 
 - Severity-style routing so urgent cases are handled first
 
 ## Screenshots
-![Shipment tracking workflow](shipment-tracking.png)
+![Shipment tracking workflow](shipment-tracking.png.png)
+![Shipment tracking run history](shipment-tracking-runs.png)
 ![Weather delay check workflow](weather-delay-check.png)
 
 ## Limits
